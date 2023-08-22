@@ -13,3 +13,6 @@ This repository contains the code for my Netflix Clone project, which I develope
 
 1. Clone the repository to your local machine.
 2. Open the index.html file in your preferred web browser.
+
+# Materials
+Netflix logo and images are sourced from the official Netflix website.
