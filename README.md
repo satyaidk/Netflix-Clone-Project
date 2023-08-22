@@ -16,3 +16,6 @@ This repository contains the code for my Netflix Clone project, which I develope
 
 # Materials
 Netflix logo and images are sourced from the official Netflix website.
+
+[Nikadi Satya Narayana]
+[nikadisatyanarayana@satyaidk.live]
