@@ -7,4 +7,4 @@ This repository contains the code for my Netflix Clone project, which I develope
 - HTML for structuring the content.
 - CSS3 for styling and layout, including media queries for responsiveness.
 - JavaScript for implementing interactive features and fetching external data.
-- GitHub for version control and collaboration 
+- GitHub for version control and collaboration & deploy using GitHub actions. 
