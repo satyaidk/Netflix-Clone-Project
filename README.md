@@ -4,7 +4,7 @@ This repository contains the code for my Netflix Clone project, which I develope
 
 # Technologies Used
 
-- HTML for structuring the content.
+- `HTML` for structuring the content.
 - CSS3 for styling and layout, including media queries for responsiveness.
 - JavaScript for navigating the pages from login page to home page.
 - GitHub for version control and collaboration & deploy using GitHub actions. 
