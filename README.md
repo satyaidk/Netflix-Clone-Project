@@ -10,7 +10,7 @@ This repository contains the code for my `Netflix Clone` Project, which I develo
 # `GitHub`
 - GitHub for version control and collaboration & deploy using GitHub actions. 
 
-# Usage
+# `Usage`
 
 1. Clone the repository to your local machine.
 2. Open the index.html file in your preferred web browser.
